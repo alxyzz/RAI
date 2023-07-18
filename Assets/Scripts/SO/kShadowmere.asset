@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914e0359be7cc27469414078b397c92c, type: 3}
+  m_Name: kShadowmere
+  m_EditorClassIdentifier: 
+  kingdomName: Shadowmere
+  description: Shrouded in perpetual twilight, Shadowmere lurks on the fringe of
+    darkness, its eerie allure drawing those who dare to explore the unknown. Winding
+    through the mist-shrouded forests and hidden swamps, the kingdom harbors secrets
+    both sinister and mysterious. Masters of shadowy arts and enigmatic creatures
+    command the darkness, blending seamlessly with the night and manipulating its
+    essence. In Shadowmere, the veil between light and dark is thin, and those who
+    navigate its depths must tread cautiously to uncover its hidden truths.
+  opinionOfPlayer: 1
+  ourKingOpinion: 2
+  playerStake: -5
+  Ambassador: {fileID: 11400000, guid: aee828efff24c6e468213db39908cffe, type: 2}
+  kingdomImage: {fileID: 21300000, guid: 115dd73393bf3124fbcf6c86eab510da, type: 3}

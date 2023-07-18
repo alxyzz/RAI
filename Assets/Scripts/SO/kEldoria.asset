@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914e0359be7cc27469414078b397c92c, type: 3}
+  m_Name: kEldoria
+  m_EditorClassIdentifier: 
+  kingdomName: Eldoria
+  description: Nestled deep within lush forests, Eldoria thrives as the kingdom of
+    eternal enchantment. Its towering ancient trees whisper secrets of forgotten
+    magic, while majestic unicorns roam freely, their shimmering horns casting a
+    soft glow on the realm. The realm is renowned for its wise and ancient elven
+    council, whose guidance and unwavering connection to nature have preserved the
+    delicate balance between the mortal and mystical realms.
+  opinionOfPlayer: 4
+  ourKingOpinion: 9
+  playerStake: 2
+  Ambassador: {fileID: 11400000, guid: 0f3d505c09391bf4eaaadd0991a30d87, type: 2}
+  kingdomImage: {fileID: 21300000, guid: 7014de2402a1bc145abc34677c8e14ef, type: 3}

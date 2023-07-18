@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914e0359be7cc27469414078b397c92c, type: 3}
+  m_Name: kVerdantia
+  m_EditorClassIdentifier: 
+  kingdomName: Verdantia
+  description: A realm of boundless beauty and vibrant life, Verdantia thrives as
+    an epitome of lush fertility. Rolling hills, carpeted with emerald-green meadows
+    and fragrant blossoms, stretch toward the horizon, while crystalline rivers wind
+    through the landscape, teeming with exotic flora and fauna. Its wise druids and
+    caretakers of nature's harmony preserve the delicate equilibrium, tending to
+    enchanted groves and nurturing the spirits of the land. Verdantia is a sanctuary
+    where the rhythm of life pulses in perfect synchrony with the whispers of the
+    wild.
+  opinionOfPlayer: 0
+  ourKingOpinion: 5
+  playerStake: 1
+  Ambassador: {fileID: 11400000, guid: cca99a38dd8ae444fa998b74951890b4, type: 2}
+  kingdomImage: {fileID: 21300000, guid: 7cf88358556953d4bbb2184986e76f60, type: 3}

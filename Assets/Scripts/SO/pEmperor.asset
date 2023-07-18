@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f845012bc2b51ff409118f5c08587af2, type: 3}
+  m_Name: pEmperor
+  m_EditorClassIdentifier: 
+  personName: Hypomaxis
+  description: Cloaked in regal robes adorned with intricate gold embroidery and
+    precious gemstones, the emperor exudes an aura of opulence and wealth. Their
+    presence commands attention, with an air of undeniable power and authority. From
+    the crown atop their head, encrusted with resplendent jewels, to the scepter
+    embellished with rare and valuable metals, every aspect of their attire reflects
+    their immense riches. Their voice carries the weight of prosperity, their words
+    accompanied by the subtle jingling of golden chains. Surrounded by a retinue
+    of servants and courtiers, they are a symbol of grandeur and luxury, showcasing
+    their wealth to the world with magnificent banquets, lavish estates, and a lifestyle
+    of unmatched extravagance.
+  normalFace: {fileID: 0}

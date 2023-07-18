@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914e0359be7cc27469414078b397c92c, type: 3}
+  m_Name: kAvaloria
+  m_EditorClassIdentifier: 
+  kingdomName: Avaloria
+  description: Rising from mist-shrouded mountains, Avaloria stands as a bastion
+    of chivalry and honor. Its sprawling citadel overlooks emerald valleys and sparkling
+    rivers, serving as a beacon of hope for all who seek justice. Knights clad in
+    shimmering armor ride alongside griffins, their wings beating with graceful strength,
+    while the kingdom's famed sorcerers weave intricate spells of protection, ensuring
+    the realm remains a sanctuary of valor and integrity.
+  opinionOfPlayer: 2
+  ourKingOpinion: 6
+  playerStake: -1
+  Ambassador: {fileID: 11400000, guid: dfc9b4e954323434891f87c6ff432f3f, type: 2}
+  kingdomImage: {fileID: 21300000, guid: d84a361b54c022649a36a2f21174648f, type: 3}

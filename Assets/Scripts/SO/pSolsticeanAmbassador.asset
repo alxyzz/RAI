@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f845012bc2b51ff409118f5c08587af2, type: 3}
+  m_Name: pSolsticeanAmbassador
+  m_EditorClassIdentifier: 
+  personName: Aurelia Swiftwind
+  description: This ambassador is a celestial figure, with a porcelain complexion
+    and hair that shimmers like starlight. Clad in flowing robes of iridescent blue,
+    their very presence evokes a sense of otherworldly tranquility. As their feet
+    glide above the ground, they emanate a faint luminescence, symbolizing the power
+    of the astral realm. With words imbued with cosmic wisdom, they seek to bridge
+    the gap between the mortal realms and the celestial plane.
+  normalFace: {fileID: 21300000, guid: c5cdcd291c0b9f74b8ca82e840eef35e, type: 3}

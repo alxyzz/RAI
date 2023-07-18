@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f845012bc2b51ff409118f5c08587af2, type: 3}
+  m_Name: pMythrianAmbassador
+  m_EditorClassIdentifier: 
+  personName: Valeria Frostborn
+  description: Striding forward, draped in finely crafted armor etched with intricate
+    runes of power, this ambassador represents a proud and resilient people. Their
+    strong and sturdy presence reflects the indomitable spirit of their homeland,
+    while their resonant voice carries the weight of ages. With a mighty weapon by
+    their side, they embody diplomatic strength and resilience, aiming to forge alliances
+    that endure like the mountains themselves.
+  normalFace: {fileID: 21300000, guid: 72bb7db3a36744d43be554c1ecb49c65, type: 3}

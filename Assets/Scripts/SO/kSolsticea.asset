@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914e0359be7cc27469414078b397c92c, type: 3}
+  m_Name: kSolsticea
+  m_EditorClassIdentifier: 
+  kingdomName: Solsticea
+  description: In the heart of a sun-kissed desert, Solsticea thrives as a realm
+    of eternal summer. Golden sand dunes stretch as far as the eye can see, their
+    mesmerizing waves shifting beneath a scorching sun. This kingdom is a center
+    of trade and vibrant culture, where bustling markets and ornate palaces dazzle
+    with colors and exotic scents. Skilled fire dancers and mystics harness the power
+    of the sun, casting radiant spells and infusing the realm with an eternal warmth.
+  opinionOfPlayer: 3
+  ourKingOpinion: 7
+  playerStake: -4
+  Ambassador: {fileID: 11400000, guid: f07eb98c18f6a9a419aef81b17ad84fa, type: 2}
+  kingdomImage: {fileID: 21300000, guid: 01b59a42bd5c1af4c8eaa4325111581a, type: 3}

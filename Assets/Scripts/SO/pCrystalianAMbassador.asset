@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f845012bc2b51ff409118f5c08587af2, type: 3}
+  m_Name: pCrystalianAMbassador
+  m_EditorClassIdentifier: 
+  personName: ' Astrid Nightshade'
+  description: Emerging from a realm steeped in mysticism, this ambassador exudes
+    an air of enchantment and natural affinity. Adorned in robes woven from shimmering
+    vines and adorned with petals and feathers, their presence invokes a sense of
+    ancient wisdom and harmony with the wild. Their eyes gleam with the secrets of
+    forgotten forests, and their words carry the weight of ancient rituals, seeking
+    to establish diplomatic connections rooted in the balance between mortals and
+    the enchanting forces of nature.
+  normalFace: {fileID: 21300000, guid: 935a495352f85554bafb1527c4c7cc96, type: 3}
